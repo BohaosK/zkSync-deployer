@@ -4,6 +4,14 @@
 https://github.com/matter-labs/v2-testnet-contracts/blob/6a93ff85d33dfff0008624eb9777d5a07a26c55d/l2/system-contracts/Constants.sol
 ```
 
+## Prerequisites
+
+```text
+yarn package manager. npm examples will be added soon
+Docker for compilation.
+A wallet with some Görli ETH on L1 (Görli USDC is also required for the ERC-20 tutorial) to pay for bridging funds to zkSync as well as deploying smart contracts.
+```
+
 ## step
 
 ```plaintext
